@@ -46,7 +46,7 @@ This means we can predict a patient’s healthcare insurance cost within a margi
 
 🌐 Visit [My Portfolio](https://www.datascienceportfol.io/VAdaye) for More Projects
 
-🙌 Acknowledgements
+🙌 Acknowledgements  
 Dataset by [@mirichoi0218](https://www.kaggle.com/datasets/mirichoi0218) on Kaggle
 
 
